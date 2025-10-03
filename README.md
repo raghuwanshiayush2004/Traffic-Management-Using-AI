@@ -38,6 +38,7 @@ Congestion detection and management
 Smart lane allocation
 
 ## 📁 Project Structure
+```
 AI-based-Traffic-Management-System/
 │
 ├── vehicle_detection.py          # YOLO-based vehicle detection
@@ -58,3 +59,4 @@ AI-based-Traffic-Management-System/
     ├── 2.jpg
     ├── 3.jpg
     └── 4.jpg
+```
