@@ -62,6 +62,6 @@ AI-based-Traffic-Management-System/
 ```
 ## Here are a few visual glimpses
 <img src="ScreenShots/img1.png" width=95% alt="snapshots">
-<img src="ScreenShots/img1.png" width=95% alt="snapshots">
-<img src="ScreenShots/img1.png" width=95% alt="snapshots">
-<img src="ScreenShots/img1.png" width=95% alt="snapshots">
+<img src="ScreenShots/img2.png" width=95% alt="snapshots">
+<img src="ScreenShots/img3.png" width=95% alt="snapshots">
+<img src="ScreenShots/img4.png" width=95% alt="snapshots">
