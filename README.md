@@ -36,3 +36,25 @@ Real-time adjustment of green light durations
 Congestion detection and management
 
 Smart lane allocation
+
+## 📁 Project Structure
+AI-based-Traffic-Management-System/
+│
+├── vehicle_detection.py          # YOLO-based vehicle detection
+├── simulation_emergency.py       # Traffic simulation with emergency features
+├── requirements.txt              # Project dependencies
+│
+├── images/                       # Vehicle assets for simulation
+│   ├── right/
+│   ├── left/
+│   ├── up/
+│   └── down/
+│
+├── sounds/                       # Audio files
+│   └── ambulance.mp3            # Emergency siren sound
+│
+└── test_images/                  # Sample images for testing
+    ├── 1.jpg
+    ├── 2.jpg
+    ├── 3.jpg
+    └── 4.jpg
